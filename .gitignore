@@ -1,0 +1,4 @@
+*.rar
+./tmp
+./bin
+.DS_Store
