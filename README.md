@@ -6,7 +6,7 @@ Use Unrar through docker instead of installing it locally.
 
 ## How to get it
 ```shell
-docker pull /unrar
+docker pull hanssandstrom/unrar_app
 ```
 
 ## How to use it
